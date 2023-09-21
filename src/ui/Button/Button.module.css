@@ -1,0 +1,22 @@
+.button {
+  padding: 10px;
+  text-transform: uppercase;
+  color: #ffffff;
+  cursor: pointer;
+}
+
+.primary {
+  background-color: #4534dd;
+}
+
+.primary:hover {
+  background-color: #6356da;
+}
+
+.secondary {
+  background-color: #da3232;
+}
+
+.secondary:hover {
+  background-color: #de6c6c;
+}

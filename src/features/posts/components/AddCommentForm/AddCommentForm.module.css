@@ -1,0 +1,9 @@
+.form {
+  display: flex;
+  gap: 10px;
+}
+
+.colorInput {
+  height: auto;
+}
+
